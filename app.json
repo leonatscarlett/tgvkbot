@@ -12,7 +12,7 @@
   "env": {
     "TELEGRAM_TOKEN": {
       "description": "Telegram bot API токен от https://t.me/BotFather",
-      "value": "123456789:AAABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLL"
+      "value": "695120943:AAGXYay0VlSzS9446ler1k3xk5U6CbjtrHc"
     },
   "VK_APP": {
       "description": "ID VK приложения из https://vk.com/apps?act=manage",
